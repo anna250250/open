@@ -33,7 +33,7 @@ body {
       width: 1325px;
     }
 
-    .item-bordered-list {
+    .item-bordered-list li{
       list-style: none;
       display: flex;
       border: 1px solid #ccc;
